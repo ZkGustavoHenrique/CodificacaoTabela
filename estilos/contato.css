@@ -94,20 +94,20 @@ button:hover {
     justify-content: space-ae;
 }
 .titulo {
-  background-color: #5e2a82; /* Fundo roxo escuro */
-  color: white; /* Texto branco */
-  text-align: center; /* Centraliza o texto */
-  padding: 40px 20px; /* Espaçamento interno */
-  font-size: 16px; /* Tamanho padrão do texto */
-  line-height: 1.5; /* Altura da linha */
+  background-color: #5e2a82; 
+  color: white;
+  text-align: center;
+  padding: 40px 20px; 
+  font-size: 16px; 
+  line-height: 1.5; 
 }
 .titulo h1 {
-  font-size: 32px; /* Tamanho maior para o título */
-  font-weight: bold; /* Negrito para destaque */
-  margin-bottom: 10px; /* Espaçamento inferior */
+  font-size: 32px; 
+  font-weight: bold; 
+  margin-bottom: 10px; 
 }
 .titulo p {
-  font-size: 18px; /* Tamanho do texto do parágrafo */
-  margin-top: 10px; /* Espaçamento superior */
-  line-height: 1.8; /* Altura da linha */
+  font-size: 18px; 
+  margin-top: 10px;
+  line-height: 1.8;
 }
