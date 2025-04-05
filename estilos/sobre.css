@@ -47,7 +47,7 @@ table {
   font-size: 16px;
   line-height: 1.5;
 }
-.conteudo {
+.texto {
   background-color: #d8b9e8;
   color: #5e2a82;
   text-align: justify;
@@ -55,7 +55,7 @@ table {
   font-size: 16px;
   line-height: 1.8;
 }
-.conteudo p {
+.texto p {
     margin: 0 auto; 
     max-width: 800px; 
   }
