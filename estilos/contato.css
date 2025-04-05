@@ -44,6 +44,11 @@ padding: 40px 0 0 30px;
 .contatos p {
   margin: 5px 0;
 }
+.contatos td {
+  padding: 10px;
+  width: 33%;
+  text-align: center;
+}
 .mensagem {
   background-color: #d8b9e8;
   text-align: center;
